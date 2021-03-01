@@ -1,9 +1,9 @@
 ======================================================================================
 This is the ReadMe file for Activity Challenge given by Full Throttle Labs.
 ======================================================================================
-Author: Ishita Katyal
-Place:  New Delhi, India
-Date:   May 06, 2020
+Author: kummari naresh
+Place: hyderabad , India
+Date:   March 01, 2021
 Version: v1.0
 ======================================================================================
 Software Requirements:
